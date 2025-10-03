@@ -10,11 +10,11 @@ English and Turkish is supported in this chess GUI. There is also a particularly
 
 ### Restarting and Quitting options
 
-As a player you can restart the game as well as quit from it by using the buttons on the upper left corner
+As a player you can restart the game as well as quit from it by using the buttons on the upper left corner.
 
 ### Ability to see whose turn it is
 
-Below the chessboard one can see whose turn it is by a turn indicator (which also changes color depending on whose turn it is)
+Below the chessboard one can see whose turn it is by a turn indicator (which also changes color depending on whose turn it is).
 
 ## Potential errors or bugs
 
