@@ -1,0 +1,9 @@
+[package]
+name = "aeozbek-chess-gui"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ eframe = "0.31.1"
+ morrish-chess = { git = "ssh://git@github.com/IndaPlus25/morrish-chess.git" }
+ image = "0.24"
